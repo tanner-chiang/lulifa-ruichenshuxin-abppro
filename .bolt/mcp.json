@@ -2,6 +2,12 @@
   "mcpServers": {
     "github": {
       "enabled": true
+    },
+    "sentry": {
+      "enabled": true
+    },
+    "context7": {
+      "enabled": true
     }
   }
 }
