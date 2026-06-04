@@ -1,4 +1,4 @@
-﻿var abp = abp || {};
+var abp = abp || {};
 (function ($) {
 
     if (!abp.ajax || !abp.ajax.defaultOpts) {

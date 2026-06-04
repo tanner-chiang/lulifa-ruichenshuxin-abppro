@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 public class OrganizationUnitPermissionManagementProvider : PermissionManagementProvider
 {

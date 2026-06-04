@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Notification;
+namespace RuichenShuxin.AbpPro.Notification;
 
 public static class NotificationDbProperties
 {

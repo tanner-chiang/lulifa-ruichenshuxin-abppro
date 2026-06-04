@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.OAuth;
+namespace RuichenShuxin.AbpPro.OAuth;
 
 [ExposeServices(typeof(LoginModel))]
 public class AbpProLoginModel : LoginModel

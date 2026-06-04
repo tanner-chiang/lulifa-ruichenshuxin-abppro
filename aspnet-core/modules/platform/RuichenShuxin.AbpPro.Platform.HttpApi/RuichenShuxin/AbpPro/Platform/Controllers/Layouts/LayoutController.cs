@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 /// <summary>
 /// 布局管理

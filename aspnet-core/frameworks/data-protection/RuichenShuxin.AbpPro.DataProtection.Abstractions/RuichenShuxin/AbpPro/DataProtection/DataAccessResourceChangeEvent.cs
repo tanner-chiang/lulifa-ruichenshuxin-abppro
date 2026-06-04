@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtection;
+namespace RuichenShuxin.AbpPro.DataProtection;
 
 [Serializable]
 [EventName("abp.data_protection.resource_changed")]

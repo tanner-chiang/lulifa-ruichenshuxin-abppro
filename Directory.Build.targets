@@ -1,4 +1,4 @@
-﻿<Project>
+<Project>
   <!-- 引入其他 props 文件 -->
   <Import Project="Directory.Build.Other.props" />
   <Import Project="Directory.Build.Volo.props" />

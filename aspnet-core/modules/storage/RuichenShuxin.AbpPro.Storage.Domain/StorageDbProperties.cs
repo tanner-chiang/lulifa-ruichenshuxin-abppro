@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Storage;
+namespace RuichenShuxin.AbpPro.Storage;
 
 public static class StorageDbProperties
 {

@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtectionManagement;
+namespace RuichenShuxin.AbpPro.DataProtectionManagement;
 
 [Authorize(DataProtectionManagementPermissionNames.EntityTypeInfo.Default)]
 public class EntityTypeInfoAppService : DataProtectionManagementApplicationServiceBase, IEntityTypeInfoAppService

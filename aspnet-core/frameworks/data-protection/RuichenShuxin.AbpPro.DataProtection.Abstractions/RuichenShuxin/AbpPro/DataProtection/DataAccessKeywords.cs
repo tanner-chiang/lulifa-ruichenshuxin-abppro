@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtection;
+namespace RuichenShuxin.AbpPro.DataProtection;
 
 /// <summary>
 /// 系统保留关键字列表

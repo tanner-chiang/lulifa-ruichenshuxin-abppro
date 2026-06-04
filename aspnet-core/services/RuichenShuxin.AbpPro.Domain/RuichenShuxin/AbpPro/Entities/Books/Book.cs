@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro;
+namespace RuichenShuxin.AbpPro;
 
 public class Book : AuditedAggregateRoot<Guid>, IDataProtected
 {

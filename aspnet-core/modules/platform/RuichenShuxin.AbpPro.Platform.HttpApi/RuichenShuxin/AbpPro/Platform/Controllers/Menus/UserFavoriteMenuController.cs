@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 /// <summary>
 /// 个人定制菜单

@@ -1,4 +1,4 @@
-﻿using RuichenShuxin.AbpPro.Notification.Localization;
+using RuichenShuxin.AbpPro.Notification.Localization;
 using Volo.Abp.AspNetCore.Mvc;
 
 namespace RuichenShuxin.AbpPro.Notification;

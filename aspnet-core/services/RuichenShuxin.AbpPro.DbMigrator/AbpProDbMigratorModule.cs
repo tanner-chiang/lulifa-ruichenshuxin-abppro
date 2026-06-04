@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DbMigrator;
+namespace RuichenShuxin.AbpPro.DbMigrator;
 
 [DependsOn(
     typeof(AbpAutofacModule),

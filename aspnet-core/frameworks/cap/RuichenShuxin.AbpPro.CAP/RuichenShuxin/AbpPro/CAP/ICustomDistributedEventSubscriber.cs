@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.CAP;
+namespace RuichenShuxin.AbpPro.CAP;
 
 /// <summary>
 /// 自定义事件订阅者

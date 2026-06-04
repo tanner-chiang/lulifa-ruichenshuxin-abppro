@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtectionManagement.EntityFrameworkCore;
+namespace RuichenShuxin.AbpPro.DataProtectionManagement.EntityFrameworkCore;
 
 public class EfCoreEntityTypeInfoRepository : EfCoreRepository<IDataProtectionManagementDbContext, EntityTypeInfo, Guid>, IEntityTypeInfoRepository
 {

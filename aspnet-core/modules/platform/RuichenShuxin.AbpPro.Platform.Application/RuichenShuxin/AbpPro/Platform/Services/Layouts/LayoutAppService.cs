@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 [Authorize(PlatformPermissions.Layout.Default)]
 public class LayoutAppService : PlatformAppService, ILayoutAppService

@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro;
+namespace RuichenShuxin.AbpPro;
 
 public abstract class AbpProAppService : AbpProAppServiceBase<AbpProResource, AbpProApplicationModule>
 {

@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 [Authorize]
 public class UserFavoriteMenuAppService : PlatformAppService, IUserFavoriteMenuAppService

@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtectionManagement;
+namespace RuichenShuxin.AbpPro.DataProtectionManagement;
 
 [Serializable]
 public abstract class EntityRuleBaseEto : EntityEto<Guid>, IMultiTenant

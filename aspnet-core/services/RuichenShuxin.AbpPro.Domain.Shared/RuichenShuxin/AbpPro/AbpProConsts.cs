@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro;
+namespace RuichenShuxin.AbpPro;
 
 public static class AbpProConsts
 {

@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtection;
+namespace RuichenShuxin.AbpPro.DataProtection;
 
 [DependsOn(typeof(AbpLocalizationModule))]
 [DependsOn(typeof(AbpMultiTenancyModule))]

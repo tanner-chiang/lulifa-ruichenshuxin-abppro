@@ -1,4 +1,4 @@
-﻿// Global using directives
+// Global using directives
 
 global using HealthChecks.UI.Client;
 global using Microsoft.AspNetCore.Builder;

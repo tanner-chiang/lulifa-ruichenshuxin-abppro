@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtection;
+namespace RuichenShuxin.AbpPro.DataProtection;
 
 public abstract class DataAuthBase<TEntity, TKey> : Entity<long>, IMultiTenant
 {

@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro;
+namespace RuichenShuxin.AbpPro;
 
 public interface IAuthorRepository : IRepository<Author, Guid>
 {

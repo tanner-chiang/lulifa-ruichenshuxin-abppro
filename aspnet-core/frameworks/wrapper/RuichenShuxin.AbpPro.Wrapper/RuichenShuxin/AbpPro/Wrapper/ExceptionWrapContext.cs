@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Wrapper;
+namespace RuichenShuxin.AbpPro.Wrapper;
 
 public class ExceptionWrapContext
 {

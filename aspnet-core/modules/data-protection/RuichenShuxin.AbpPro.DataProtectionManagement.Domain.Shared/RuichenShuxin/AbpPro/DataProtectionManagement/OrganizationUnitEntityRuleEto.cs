@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtectionManagement;
+namespace RuichenShuxin.AbpPro.DataProtectionManagement;
 
 [Serializable]
 [EventName("abp.data_protection.entity_rule.organization_unit")]

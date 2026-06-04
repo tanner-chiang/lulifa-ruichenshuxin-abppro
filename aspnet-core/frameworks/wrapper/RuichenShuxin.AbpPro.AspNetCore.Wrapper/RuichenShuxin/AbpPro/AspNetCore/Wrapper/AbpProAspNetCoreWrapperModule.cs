@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.AspNetCore.Wrapper;
+namespace RuichenShuxin.AbpPro.AspNetCore.Wrapper;
 
 [DependsOn(
     typeof(AbpProWrapperModule),

@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtectionManagement;
+namespace RuichenShuxin.AbpPro.DataProtectionManagement;
 
 public abstract class EntityRuleCreateOrUpdateDto
 {

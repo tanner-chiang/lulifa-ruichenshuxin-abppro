@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DbMigrator;
+namespace RuichenShuxin.AbpPro.DbMigrator;
 
 public class DbMigratorHostedService : IHostedService
 {

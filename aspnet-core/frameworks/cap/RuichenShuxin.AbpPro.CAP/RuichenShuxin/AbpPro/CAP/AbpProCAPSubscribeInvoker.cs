@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.CAP;
+namespace RuichenShuxin.AbpPro.CAP;
 
 /// <summary>
 /// 重写 ISubscribeInvoker 实现 Abp 租户集成

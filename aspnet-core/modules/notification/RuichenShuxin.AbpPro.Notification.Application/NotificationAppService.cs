@@ -1,4 +1,4 @@
-﻿using RuichenShuxin.AbpPro.Notification.Localization;
+using RuichenShuxin.AbpPro.Notification.Localization;
 using Volo.Abp.Application.Services;
 
 namespace RuichenShuxin.AbpPro.Notification;

@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DbMigrator;
+namespace RuichenShuxin.AbpPro.DbMigrator;
 
 class Program
 {

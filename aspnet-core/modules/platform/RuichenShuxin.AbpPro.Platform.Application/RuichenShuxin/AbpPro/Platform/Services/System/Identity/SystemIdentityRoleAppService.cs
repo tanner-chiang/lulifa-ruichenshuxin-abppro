@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 [Authorize(IdentityPermissions.Roles.Default)]
 public class SystemIdentityRoleAppService : PlatformAppService, ISystemIdentityRoleAppService

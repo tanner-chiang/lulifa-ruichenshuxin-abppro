@@ -1,4 +1,4 @@
-﻿namespace System.Security.Principal;
+namespace System.Security.Principal;
 
 public static class AbpProClaimOrganizationUnitsExtensions
 {

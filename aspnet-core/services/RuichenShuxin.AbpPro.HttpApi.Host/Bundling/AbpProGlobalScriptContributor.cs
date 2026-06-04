@@ -1,4 +1,4 @@
-﻿using Volo.Abp.AspNetCore.Mvc.UI.Bundling;
+using Volo.Abp.AspNetCore.Mvc.UI.Bundling;
 using Volo.Abp.AspNetCore.Mvc.UI.Packages.JQuery;
 
 namespace RuichenShuxin.AbpPro;

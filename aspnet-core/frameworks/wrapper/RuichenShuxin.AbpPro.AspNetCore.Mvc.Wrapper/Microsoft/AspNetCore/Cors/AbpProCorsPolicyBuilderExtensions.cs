@@ -1,4 +1,4 @@
-﻿namespace Microsoft.AspNetCore.Cors;
+namespace Microsoft.AspNetCore.Cors;
 
 public static class AbpProCorsPolicyBuilderExtensions
 {

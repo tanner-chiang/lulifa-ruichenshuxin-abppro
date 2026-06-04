@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform.Settings;
+namespace RuichenShuxin.AbpPro.Platform.Settings;
 
 public class PlatformSettingDefinitionProvider : Volo.Abp.Settings.SettingDefinitionProvider
 {

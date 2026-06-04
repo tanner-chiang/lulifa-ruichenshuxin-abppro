@@ -1,4 +1,4 @@
-﻿// Global using directives
+// Global using directives
 
 global using RuichenShuxin.AbpPro.Core;
 global using Volo.Abp.Domain;

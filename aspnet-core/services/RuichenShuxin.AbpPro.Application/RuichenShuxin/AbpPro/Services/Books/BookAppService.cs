@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro;
+namespace RuichenShuxin.AbpPro;
 
 [Authorize(AbpProPermissions.Books.Default)]
 public class BookAppService : AbpProAppService, IBookAppService //implement the IBookAppService

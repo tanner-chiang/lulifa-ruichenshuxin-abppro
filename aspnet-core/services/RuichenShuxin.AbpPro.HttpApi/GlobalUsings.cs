@@ -1,4 +1,4 @@
-﻿// Global using directives
+// Global using directives
 
 global using Localization.Resources.AbpUi;
 global using Microsoft.AspNetCore.Mvc;

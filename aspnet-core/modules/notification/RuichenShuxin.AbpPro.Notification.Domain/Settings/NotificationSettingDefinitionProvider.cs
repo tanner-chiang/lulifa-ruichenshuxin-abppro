@@ -1,4 +1,4 @@
-﻿using Volo.Abp.Settings;
+using Volo.Abp.Settings;
 
 namespace RuichenShuxin.AbpPro.Notification.Settings;
 

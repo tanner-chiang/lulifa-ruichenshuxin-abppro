@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtection.EntityFrameworkCore;
+namespace RuichenShuxin.AbpPro.DataProtection.EntityFrameworkCore;
 
 public class AbpProDataProtectedWriteEntityInterceptor : SaveChangesInterceptor, ITransientDependency
 {

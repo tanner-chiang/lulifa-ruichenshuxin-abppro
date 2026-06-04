@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtection;
+namespace RuichenShuxin.AbpPro.DataProtection;
 
 public class DataAccessStrategyStateProvider : IDataAccessStrategyStateProvider, ITransientDependency
 {

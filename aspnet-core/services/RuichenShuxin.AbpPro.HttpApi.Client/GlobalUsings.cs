@@ -1,4 +1,4 @@
-﻿// Global using directives
+// Global using directives
 
 global using Microsoft.Extensions.DependencyInjection;
 global using RuichenShuxin.AbpPro.DataProtectionManagement;

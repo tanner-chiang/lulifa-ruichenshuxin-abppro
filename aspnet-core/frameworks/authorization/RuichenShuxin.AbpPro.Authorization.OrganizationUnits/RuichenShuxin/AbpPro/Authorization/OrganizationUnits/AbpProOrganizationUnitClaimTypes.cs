@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Authorization.OrganizationUnits;
+namespace RuichenShuxin.AbpPro.Authorization.OrganizationUnits;
 
 public static class AbpProOrganizationUnitClaimTypes
 {

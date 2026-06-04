@@ -1,4 +1,4 @@
-﻿using Volo.Abp.AuditLogging;
+using Volo.Abp.AuditLogging;
 using Volo.Abp.BackgroundJobs;
 using Volo.Abp.Caching;
 using Volo.Abp.FeatureManagement;

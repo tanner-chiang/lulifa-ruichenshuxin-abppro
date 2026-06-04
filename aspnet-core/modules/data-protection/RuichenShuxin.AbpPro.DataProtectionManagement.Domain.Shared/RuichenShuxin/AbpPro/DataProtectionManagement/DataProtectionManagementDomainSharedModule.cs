@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtectionManagement;
+namespace RuichenShuxin.AbpPro.DataProtectionManagement;
 
 [DependsOn(typeof(AbpDddDomainSharedModule))]
 [DependsOn(typeof(AbpProDataProtectionAbstractionsModule))]

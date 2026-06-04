@@ -1,4 +1,4 @@
-﻿# RuichenShuxin.AbpPro
+# RuichenShuxin.AbpPro
 
 ## About this solution
 

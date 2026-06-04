@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Notification.Samples;
+namespace RuichenShuxin.AbpPro.Notification.Samples;
 
 public class SampleDto
 {

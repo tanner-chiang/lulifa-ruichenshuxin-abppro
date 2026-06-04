@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtection.EntityFrameworkCore;
+namespace RuichenShuxin.AbpPro.DataProtection.EntityFrameworkCore;
 
 public abstract class EfCoreDataProtectionRepository<TDbContext, TEntity, TKey, TEntityAuth> : 
     EfCoreRepository<TDbContext, TEntity, TKey>,

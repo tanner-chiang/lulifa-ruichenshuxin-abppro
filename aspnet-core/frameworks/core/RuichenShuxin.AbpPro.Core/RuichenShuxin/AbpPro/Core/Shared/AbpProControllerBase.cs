@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Core;
+namespace RuichenShuxin.AbpPro.Core;
 
 /// <summary>
 /// Controller 基类（最顶层，定义资源类型）

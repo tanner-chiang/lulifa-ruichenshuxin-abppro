@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtectionManagement;
+namespace RuichenShuxin.AbpPro.DataProtectionManagement;
 
 [Authorize(DataProtectionManagementPermissionNames.SubjectStrategy.Default)]
 public class SubjectStrategyAppService : DataProtectionManagementApplicationServiceBase, ISubjectStrategyAppService

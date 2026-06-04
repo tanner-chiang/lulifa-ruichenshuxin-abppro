@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 [Authorize(TenantManagementPermissions.Tenants.Default)]
 public class SystemTenantAppService : PlatformAppService, ISystemTenantAppService

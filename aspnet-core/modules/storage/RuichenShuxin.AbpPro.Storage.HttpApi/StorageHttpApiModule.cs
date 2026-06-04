@@ -1,4 +1,4 @@
-﻿using Localization.Resources.AbpUi;
+using Localization.Resources.AbpUi;
 using RuichenShuxin.AbpPro.Storage.Localization;
 using Volo.Abp.AspNetCore.Mvc;
 using Volo.Abp.Localization;

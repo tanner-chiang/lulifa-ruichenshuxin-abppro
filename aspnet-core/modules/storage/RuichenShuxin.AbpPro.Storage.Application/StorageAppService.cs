@@ -1,4 +1,4 @@
-﻿using RuichenShuxin.AbpPro.Storage.Localization;
+using RuichenShuxin.AbpPro.Storage.Localization;
 using Volo.Abp.Application.Services;
 
 namespace RuichenShuxin.AbpPro.Storage;

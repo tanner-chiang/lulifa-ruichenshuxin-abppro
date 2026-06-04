@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.CAP;
+namespace RuichenShuxin.AbpPro.CAP;
 
 /// <summary>
 /// CAP分布式事件总线

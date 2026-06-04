@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.EntityFrameworkCore;
+namespace RuichenShuxin.AbpPro.EntityFrameworkCore;
 
 public class EntityFrameworkCoreAbpProDbSchemaMigrator
     : IAbpProDbSchemaMigrator, ITransientDependency

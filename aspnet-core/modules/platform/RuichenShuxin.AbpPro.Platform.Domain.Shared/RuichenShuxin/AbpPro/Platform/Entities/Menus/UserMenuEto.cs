@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 [EventName("platform.menus.user_menu")]
 public class UserMenuEto : IMultiTenant

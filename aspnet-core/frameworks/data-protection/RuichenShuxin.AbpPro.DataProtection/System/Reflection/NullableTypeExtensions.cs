@@ -1,4 +1,4 @@
-﻿namespace System.Reflection;
+namespace System.Reflection;
 
 internal static class NullableTypeExtensions
 {

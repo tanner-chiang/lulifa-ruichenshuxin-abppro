@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.CAP;
+namespace RuichenShuxin.AbpPro.CAP;
 
 /// <summary>
 /// [DisableConventionalRegistration] 表示 ABP 框架不会自动把它注册为依赖注入服务，你可能会自己手动注册或者在特定场景下使用。

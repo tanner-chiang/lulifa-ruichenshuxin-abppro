@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 [Authorize(PlatformPermissions.DataDictionary.Default)]
 public class DataAppService : PlatformAppService, IDataAppService

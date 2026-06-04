@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.OAuth;
+namespace RuichenShuxin.AbpPro.OAuth;
 
 public interface IOAuthHandlerOptionsProvider<TOptions>
     where TOptions : RemoteAuthenticationOptions, new()

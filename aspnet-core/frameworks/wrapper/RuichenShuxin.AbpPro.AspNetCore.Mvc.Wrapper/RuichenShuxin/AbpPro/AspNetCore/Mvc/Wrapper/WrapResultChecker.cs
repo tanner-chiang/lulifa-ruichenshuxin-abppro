@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.AspNetCore.Mvc.Wrapper;
+namespace RuichenShuxin.AbpPro.AspNetCore.Mvc.Wrapper;
 
 public class WrapResultChecker : IWrapResultChecker, ISingletonDependency
 {

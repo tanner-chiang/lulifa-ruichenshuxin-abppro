@@ -1,4 +1,4 @@
-﻿namespace Volo.Abp.Users;
+namespace Volo.Abp.Users;
 
 public static class CurrentUserOrganizationUnitsExtensions
 {

@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro;
+namespace RuichenShuxin.AbpPro;
 
 [Dependency(ReplaceServices = true)]
 public class AbpProBrandingProvider : DefaultBrandingProvider

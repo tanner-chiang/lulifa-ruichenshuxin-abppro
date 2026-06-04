@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro;
+namespace RuichenShuxin.AbpPro;
 
 /* This is used if database provider does't define
  * IAbpProDbSchemaMigrator implementation.

@@ -1,4 +1,4 @@
-﻿<Project>
+<Project>
   <ItemGroup>
 
     <PackageReference Update="Volo.Abp" Version="$(VoloAbpPackageVersion)"/>

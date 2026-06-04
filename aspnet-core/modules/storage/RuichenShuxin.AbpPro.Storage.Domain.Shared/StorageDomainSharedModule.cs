@@ -1,4 +1,4 @@
-﻿using Volo.Abp.Modularity;
+using Volo.Abp.Modularity;
 using Volo.Abp.Localization;
 using RuichenShuxin.AbpPro.Storage.Localization;
 using Volo.Abp.Domain;

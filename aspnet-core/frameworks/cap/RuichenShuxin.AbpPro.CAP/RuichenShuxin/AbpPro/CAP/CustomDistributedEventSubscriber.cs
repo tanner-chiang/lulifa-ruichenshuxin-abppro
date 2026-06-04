@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.CAP;
+namespace RuichenShuxin.AbpPro.CAP;
 
 internal class CustomDistributedEventSubscriber : ICustomDistributedEventSubscriber, ISingletonDependency
 {

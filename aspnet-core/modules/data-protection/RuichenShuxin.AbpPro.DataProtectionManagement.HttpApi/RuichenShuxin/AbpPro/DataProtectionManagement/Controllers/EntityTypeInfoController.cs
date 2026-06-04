@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtectionManagement;
+namespace RuichenShuxin.AbpPro.DataProtectionManagement;
 
 [Route($"api/{DataProtectionManagementRemoteServiceConsts.ModuleName}/entity-type-infos")]
 public class EntityTypeInfoController : DataProtectionManagementController, IEntityTypeInfoAppService

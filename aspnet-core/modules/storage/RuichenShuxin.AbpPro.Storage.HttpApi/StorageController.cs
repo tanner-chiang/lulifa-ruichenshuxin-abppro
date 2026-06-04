@@ -1,4 +1,4 @@
-﻿using RuichenShuxin.AbpPro.Storage.Localization;
+using RuichenShuxin.AbpPro.Storage.Localization;
 using Volo.Abp.AspNetCore.Mvc;
 
 namespace RuichenShuxin.AbpPro.Storage;

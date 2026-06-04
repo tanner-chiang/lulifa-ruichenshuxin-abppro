@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 public class EfCoreIdentityUserRepository : Volo.Abp.Identity.EntityFrameworkCore.EfCoreIdentityUserRepository, IIdentityUserRepository
 {

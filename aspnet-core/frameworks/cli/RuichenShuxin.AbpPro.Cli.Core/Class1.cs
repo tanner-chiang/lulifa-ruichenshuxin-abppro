@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Cli.Core;
+namespace RuichenShuxin.AbpPro.Cli.Core;
 
 public class Class1
 {

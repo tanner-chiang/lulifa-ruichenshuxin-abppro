@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.DataProtectionManagement;
+namespace RuichenShuxin.AbpPro.DataProtectionManagement;
 
 [Authorize(DataProtectionManagementPermissionNames.RoleEntityRule.Default)]
 public class RoleEntityRuleAppService : DataProtectionManagementApplicationServiceBase, IRoleEntityRuleAppService

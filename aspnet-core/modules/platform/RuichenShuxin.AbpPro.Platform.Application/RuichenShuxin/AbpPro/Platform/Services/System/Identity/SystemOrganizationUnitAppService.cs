@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 [Authorize(PlatformPermissions.OrganizationUnits.Default)]
 public class SystemOrganizationUnitAppService : PlatformAppService, ISystemOrganizationUnitAppService

@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Notification.Settings;
+namespace RuichenShuxin.AbpPro.Notification.Settings;
 
 public static class NotificationSettings
 {

@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 [LocalizationResourceName("AbpSaas")]
 public class AbpSaasResource

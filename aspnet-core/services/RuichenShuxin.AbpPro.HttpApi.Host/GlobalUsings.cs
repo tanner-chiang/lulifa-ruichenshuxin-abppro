@@ -1,4 +1,4 @@
-﻿// Global using directives
+// Global using directives
 
 global using Medallion.Threading;
 global using Medallion.Threading.Redis;

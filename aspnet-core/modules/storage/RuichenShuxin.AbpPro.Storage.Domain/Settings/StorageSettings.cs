@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Storage.Settings;
+namespace RuichenShuxin.AbpPro.Storage.Settings;
 
 public static class StorageSettings
 {

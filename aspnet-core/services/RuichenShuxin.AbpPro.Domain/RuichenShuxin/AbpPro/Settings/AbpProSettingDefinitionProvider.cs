@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro;
+namespace RuichenShuxin.AbpPro;
 
 public class AbpProSettingDefinitionProvider : Volo.Abp.Settings.SettingDefinitionProvider
 {

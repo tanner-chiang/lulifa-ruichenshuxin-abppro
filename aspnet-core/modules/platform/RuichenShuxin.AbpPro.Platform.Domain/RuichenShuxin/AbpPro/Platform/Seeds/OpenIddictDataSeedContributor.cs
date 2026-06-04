@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 /* Creates initial data that is needed to property run the application
  * and make client-to-server communication possible.

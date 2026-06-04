@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Wrapper;
+namespace RuichenShuxin.AbpPro.Wrapper;
 
 /// <summary>
 /// 返回值包装结构

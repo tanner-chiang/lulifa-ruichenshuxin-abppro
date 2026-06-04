@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 [ConnectionStringName(PlatformDbProperties.ConnectionStringName)]
 public class PlatformDbContext : AbpDbContext<PlatformDbContext>, IPlatformDbContext

@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Platform;
+namespace RuichenShuxin.AbpPro.Platform;
 
 /// <summary>
 /// 不管是布局还是视图或者页面，都作为路由的实现，因此抽象一个路由实体<br/> 

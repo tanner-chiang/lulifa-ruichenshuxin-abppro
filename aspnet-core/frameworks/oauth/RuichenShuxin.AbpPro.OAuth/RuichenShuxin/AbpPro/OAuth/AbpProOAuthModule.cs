@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.OAuth;
+namespace RuichenShuxin.AbpPro.OAuth;
 
 [DependsOn(
     typeof(AbpProCoreModule),

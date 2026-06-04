@@ -1,4 +1,4 @@
-﻿namespace RuichenShuxin.AbpPro.Storage.Samples;
+namespace RuichenShuxin.AbpPro.Storage.Samples;
 
 public class SampleDto
 {

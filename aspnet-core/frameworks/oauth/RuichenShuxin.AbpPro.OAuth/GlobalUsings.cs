@@ -1,4 +1,4 @@
-﻿// Global using directives
+// Global using directives
 
 global using AspNet.Security.OAuth.Bilibili;
 global using AspNet.Security.OAuth.Gitee;

@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Volo.Abp;
 
 namespace RuichenShuxin.AbpPro.Notification.EntityFrameworkCore;
